@@ -1,4 +1,4 @@
-#Luluh Almogbil -  temperature converte system
+#Luluh Almogbil -  temperature converter system
 '''
 # Bonus
 ##  Temperature Converter
